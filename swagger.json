@@ -5,7 +5,7 @@
     "description": "Users Api",
     "version": "1.0.0"
   },
-  "host": "https://project1-5zap.onrender.com",
+  "host": "project1-5zap.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
